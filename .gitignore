@@ -1,0 +1,16 @@
+.venv/
+node_modules/
+__pycache__/
+.pytest_cache/
+*.pyc
+build/
+dist/
+*.spec
+runtime.log
+startup-error.txt
+experiments/*
+!experiments/.gitkeep
+
+# Commit the offline interface shipped with the source distribution.
+!ui/dist/
+!ui/dist/**
