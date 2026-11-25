@@ -1,0 +1,16 @@
+{
+  "kind": "synthetic duplicated-constraint algebra example",
+  "equation": "lambda_1 + lambda_2 = 1; lambda_i >= 0",
+  "expected_range": [
+    0,
+    1
+  ],
+  "computed_bounds": {
+    "min": 0.0,
+    "max": 1.00003,
+    "unbounded": false,
+    "note": "Nonnegative normal-force distributions matching this step\u2019s balance within 3e-5; history/compliance not selected.",
+    "min_status": "Optimization terminated successfully. (HiGHS Status 7: Optimal)",
+    "max_status": "Optimization terminated successfully. (HiGHS Status 7: Optimal)"
+  }
+}

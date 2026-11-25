@@ -1,0 +1,13 @@
+{
+  "kind": "analytic synthetic benchmark",
+  "expected_reaction": 0.6944444444444445,
+  "computed_reaction": 0.6944444444444444,
+  "force_bounds": {
+    "min": 0.6944144444444446,
+    "max": 0.6944744444444445,
+    "unbounded": false,
+    "note": "Nonnegative normal-force distributions matching this step\u2019s balance within 3e-5; history/compliance not selected.",
+    "min_status": "Optimization terminated successfully. (HiGHS Status 7: Optimal)",
+    "max_status": "Optimization terminated successfully. (HiGHS Status 7: Optimal)"
+  }
+}

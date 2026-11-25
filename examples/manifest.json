@@ -1,0 +1,559 @@
+{
+  "provenance": "Fresh synthetic examples; deterministic generator and exact initial arrays supplied.",
+  "seeds": [
+    2027,
+    2028,
+    2029
+  ],
+  "default": "ed63aa439191",
+  "runs": [
+    {
+      "id": "34900634f7ba",
+      "label": "Translation \u00b7 synthetic seed 2027",
+      "settings": {
+        "particles": 36,
+        "seed": 2027,
+        "gravity": 1.0,
+        "damping": 1.0,
+        "epsilon": 0.0,
+        "dt": 0.015,
+        "duration": 0.6,
+        "amplitude": 0.02,
+        "frequency": 1.0,
+        "waveform": "translate",
+        "stroke": 0.03,
+        "aspect": 1.0,
+        "angle": 0.0,
+        "width": 2.7,
+        "intruder_x": 1.35,
+        "intruder_y": 0.78,
+        "intruder_radius": 0.32
+      },
+      "initial_hash": "7a42a8ada00de62c",
+      "metrics": {
+        "mean_reaction": 5.532131262000918,
+        "mean_vertical_resistance": 3.1113694744781935,
+        "work": 0.09504323496342064,
+        "positive_work": 0.09544013900046512,
+        "max_penetration": 4.008897561691427e-07,
+        "max_balance": 2.2093438190040615e-14,
+        "max_complementarity": 1.755420175959987e-13
+      }
+    },
+    {
+      "id": "ed63aa439191",
+      "label": "Lateral sway \u00b7 synthetic seed 2027",
+      "settings": {
+        "particles": 36,
+        "seed": 2027,
+        "gravity": 1.0,
+        "damping": 1.0,
+        "epsilon": 0.0,
+        "dt": 0.015,
+        "duration": 0.6,
+        "amplitude": 0.02,
+        "frequency": 1.0,
+        "waveform": "sway",
+        "stroke": 0.03,
+        "aspect": 1.0,
+        "angle": 0.0,
+        "width": 2.7,
+        "intruder_x": 1.35,
+        "intruder_y": 0.78,
+        "intruder_radius": 0.32
+      },
+      "initial_hash": "7a42a8ada00de62c",
+      "metrics": {
+        "mean_reaction": 3.3843116625451963,
+        "mean_vertical_resistance": 1.3644958414993456,
+        "work": 0.15831135011102693,
+        "positive_work": 0.15892486731733135,
+        "max_penetration": 6.480019462684616e-07,
+        "max_balance": 2.2093438190040615e-14,
+        "max_complementarity": 1.755420175959987e-13
+      }
+    },
+    {
+      "id": "3dacb15c2c23",
+      "label": "Half timestep \u00b7 translate \u00b7 synthetic seed 2027",
+      "settings": {
+        "particles": 36,
+        "seed": 2027,
+        "gravity": 1.0,
+        "damping": 1.0,
+        "epsilon": 0.0,
+        "dt": 0.0075,
+        "duration": 0.6,
+        "amplitude": 0.02,
+        "frequency": 1.0,
+        "waveform": "translate",
+        "stroke": 0.03,
+        "aspect": 1.0,
+        "angle": 0.0,
+        "width": 2.7,
+        "intruder_x": 1.35,
+        "intruder_y": 0.78,
+        "intruder_radius": 0.32
+      },
+      "initial_hash": "7a42a8ada00de62c",
+      "metrics": {
+        "mean_reaction": 5.543386626833942,
+        "mean_vertical_resistance": 3.0458157451777432,
+        "work": 0.09199744530023463,
+        "positive_work": 0.09239934114898112,
+        "max_penetration": 1.1745586586675572e-07,
+        "max_balance": 1.9984014443252818e-14,
+        "max_complementarity": 2.1330867915687408e-13
+      }
+    },
+    {
+      "id": "c565469be8e0",
+      "label": "Half timestep \u00b7 sway \u00b7 synthetic seed 2027",
+      "settings": {
+        "particles": 36,
+        "seed": 2027,
+        "gravity": 1.0,
+        "damping": 1.0,
+        "epsilon": 0.0,
+        "dt": 0.0075,
+        "duration": 0.6,
+        "amplitude": 0.02,
+        "frequency": 1.0,
+        "waveform": "sway",
+        "stroke": 0.03,
+        "aspect": 1.0,
+        "angle": 0.0,
+        "width": 2.7,
+        "intruder_x": 1.35,
+        "intruder_y": 0.78,
+        "intruder_radius": 0.32
+      },
+      "initial_hash": "7a42a8ada00de62c",
+      "metrics": {
+        "mean_reaction": 3.2708925633281076,
+        "mean_vertical_resistance": 1.3251215060226942,
+        "work": 0.14619545904118864,
+        "positive_work": 0.1468090581869101,
+        "max_penetration": 1.6174502787125178e-07,
+        "max_balance": 1.9984014443252818e-14,
+        "max_complementarity": 2.1330867915687408e-13
+      }
+    },
+    {
+      "id": "01ed1f0d08a9",
+      "label": "Translation \u00b7 synthetic seed 2028",
+      "settings": {
+        "particles": 36,
+        "seed": 2028,
+        "gravity": 1.0,
+        "damping": 1.0,
+        "epsilon": 0.0,
+        "dt": 0.015,
+        "duration": 0.6,
+        "amplitude": 0.02,
+        "frequency": 1.0,
+        "waveform": "translate",
+        "stroke": 0.03,
+        "aspect": 1.0,
+        "angle": 0.0,
+        "width": 2.7,
+        "intruder_x": 1.35,
+        "intruder_y": 0.78,
+        "intruder_radius": 0.32
+      },
+      "initial_hash": "b5086f4a8ef5b8c4",
+      "metrics": {
+        "mean_reaction": 6.082443107956286,
+        "mean_vertical_resistance": 6.004609521832938,
+        "work": 0.1840753704663531,
+        "positive_work": 0.1840753704663531,
+        "max_penetration": 2.3311086741473197e-08,
+        "max_balance": 9.103828801926284e-15,
+        "max_complementarity": 4.2348616002987397e-16
+      }
+    },
+    {
+      "id": "5f809d6097f6",
+      "label": "Lateral sway \u00b7 synthetic seed 2028",
+      "settings": {
+        "particles": 36,
+        "seed": 2028,
+        "gravity": 1.0,
+        "damping": 1.0,
+        "epsilon": 0.0,
+        "dt": 0.015,
+        "duration": 0.6,
+        "amplitude": 0.02,
+        "frequency": 1.0,
+        "waveform": "sway",
+        "stroke": 0.03,
+        "aspect": 1.0,
+        "angle": 0.0,
+        "width": 2.7,
+        "intruder_x": 1.35,
+        "intruder_y": 0.78,
+        "intruder_radius": 0.32
+      },
+      "initial_hash": "b5086f4a8ef5b8c4",
+      "metrics": {
+        "mean_reaction": 5.4844103158934026,
+        "mean_vertical_resistance": 5.389652414635744,
+        "work": 0.21885549624803982,
+        "positive_work": 0.21885549624803982,
+        "max_penetration": 1.989205125133009e-06,
+        "max_balance": 7.216449660063518e-15,
+        "max_complementarity": 1.0136882438807101e-15
+      }
+    },
+    {
+      "id": "43203b672eed",
+      "label": "Translation \u00b7 synthetic seed 2029",
+      "settings": {
+        "particles": 36,
+        "seed": 2029,
+        "gravity": 1.0,
+        "damping": 1.0,
+        "epsilon": 0.0,
+        "dt": 0.015,
+        "duration": 0.6,
+        "amplitude": 0.02,
+        "frequency": 1.0,
+        "waveform": "translate",
+        "stroke": 0.03,
+        "aspect": 1.0,
+        "angle": 0.0,
+        "width": 2.7,
+        "intruder_x": 1.35,
+        "intruder_y": 0.78,
+        "intruder_radius": 0.32
+      },
+      "initial_hash": "42f7eb3a679bbd42",
+      "metrics": {
+        "mean_reaction": 4.899615558202208,
+        "mean_vertical_resistance": 3.887068884641623,
+        "work": 0.11603665929289617,
+        "positive_work": 0.11603665929289617,
+        "max_penetration": 6.102200164198601e-07,
+        "max_balance": 5.5511188204500006e-15,
+        "max_complementarity": 1.3547934465226501e-16
+      }
+    },
+    {
+      "id": "f73a2dabe57f",
+      "label": "Lateral sway \u00b7 synthetic seed 2029",
+      "settings": {
+        "particles": 36,
+        "seed": 2029,
+        "gravity": 1.0,
+        "damping": 1.0,
+        "epsilon": 0.0,
+        "dt": 0.015,
+        "duration": 0.6,
+        "amplitude": 0.02,
+        "frequency": 1.0,
+        "waveform": "sway",
+        "stroke": 0.03,
+        "aspect": 1.0,
+        "angle": 0.0,
+        "width": 2.7,
+        "intruder_x": 1.35,
+        "intruder_y": 0.78,
+        "intruder_radius": 0.32
+      },
+      "initial_hash": "42f7eb3a679bbd42",
+      "metrics": {
+        "mean_reaction": 5.985139915888784,
+        "mean_vertical_resistance": 4.181476574986534,
+        "work": 0.19386307007026074,
+        "positive_work": 0.20586366121244024,
+        "max_penetration": 1.9733235117613823e-06,
+        "max_balance": 5.107028843740714e-15,
+        "max_complementarity": 4.989870916677807e-16
+      }
+    }
+  ],
+  "comparisons": [
+    {
+      "seed": 2027,
+      "runs": [
+        {
+          "id": "34900634f7ba",
+          "label": "Translation \u00b7 synthetic seed 2027",
+          "settings": {
+            "particles": 36,
+            "seed": 2027,
+            "gravity": 1.0,
+            "damping": 1.0,
+            "epsilon": 0.0,
+            "dt": 0.015,
+            "duration": 0.6,
+            "amplitude": 0.02,
+            "frequency": 1.0,
+            "waveform": "translate",
+            "stroke": 0.03,
+            "aspect": 1.0,
+            "angle": 0.0,
+            "width": 2.7,
+            "intruder_x": 1.35,
+            "intruder_y": 0.78,
+            "intruder_radius": 0.32
+          },
+          "initial_hash": "7a42a8ada00de62c",
+          "metrics": {
+            "mean_reaction": 5.532131262000918,
+            "mean_vertical_resistance": 3.1113694744781935,
+            "work": 0.09504323496342064,
+            "positive_work": 0.09544013900046512,
+            "max_penetration": 4.008897561691427e-07,
+            "max_balance": 2.2093438190040615e-14,
+            "max_complementarity": 1.755420175959987e-13
+          }
+        },
+        {
+          "id": "ed63aa439191",
+          "label": "Lateral sway \u00b7 synthetic seed 2027",
+          "settings": {
+            "particles": 36,
+            "seed": 2027,
+            "gravity": 1.0,
+            "damping": 1.0,
+            "epsilon": 0.0,
+            "dt": 0.015,
+            "duration": 0.6,
+            "amplitude": 0.02,
+            "frequency": 1.0,
+            "waveform": "sway",
+            "stroke": 0.03,
+            "aspect": 1.0,
+            "angle": 0.0,
+            "width": 2.7,
+            "intruder_x": 1.35,
+            "intruder_y": 0.78,
+            "intruder_radius": 0.32
+          },
+          "initial_hash": "7a42a8ada00de62c",
+          "metrics": {
+            "mean_reaction": 3.3843116625451963,
+            "mean_vertical_resistance": 1.3644958414993456,
+            "work": 0.15831135011102693,
+            "positive_work": 0.15892486731733135,
+            "max_penetration": 6.480019462684616e-07,
+            "max_balance": 2.2093438190040615e-14,
+            "max_complementarity": 1.755420175959987e-13
+          }
+        }
+      ],
+      "half_timestep": [
+        {
+          "id": "3dacb15c2c23",
+          "label": "Half timestep \u00b7 translate \u00b7 synthetic seed 2027",
+          "settings": {
+            "particles": 36,
+            "seed": 2027,
+            "gravity": 1.0,
+            "damping": 1.0,
+            "epsilon": 0.0,
+            "dt": 0.0075,
+            "duration": 0.6,
+            "amplitude": 0.02,
+            "frequency": 1.0,
+            "waveform": "translate",
+            "stroke": 0.03,
+            "aspect": 1.0,
+            "angle": 0.0,
+            "width": 2.7,
+            "intruder_x": 1.35,
+            "intruder_y": 0.78,
+            "intruder_radius": 0.32
+          },
+          "initial_hash": "7a42a8ada00de62c",
+          "metrics": {
+            "mean_reaction": 5.543386626833942,
+            "mean_vertical_resistance": 3.0458157451777432,
+            "work": 0.09199744530023463,
+            "positive_work": 0.09239934114898112,
+            "max_penetration": 1.1745586586675572e-07,
+            "max_balance": 1.9984014443252818e-14,
+            "max_complementarity": 2.1330867915687408e-13
+          }
+        },
+        {
+          "id": "c565469be8e0",
+          "label": "Half timestep \u00b7 sway \u00b7 synthetic seed 2027",
+          "settings": {
+            "particles": 36,
+            "seed": 2027,
+            "gravity": 1.0,
+            "damping": 1.0,
+            "epsilon": 0.0,
+            "dt": 0.0075,
+            "duration": 0.6,
+            "amplitude": 0.02,
+            "frequency": 1.0,
+            "waveform": "sway",
+            "stroke": 0.03,
+            "aspect": 1.0,
+            "angle": 0.0,
+            "width": 2.7,
+            "intruder_x": 1.35,
+            "intruder_y": 0.78,
+            "intruder_radius": 0.32
+          },
+          "initial_hash": "7a42a8ada00de62c",
+          "metrics": {
+            "mean_reaction": 3.2708925633281076,
+            "mean_vertical_resistance": 1.3251215060226942,
+            "work": 0.14619545904118864,
+            "positive_work": 0.1468090581869101,
+            "max_penetration": 1.6174502787125178e-07,
+            "max_balance": 1.9984014443252818e-14,
+            "max_complementarity": 2.1330867915687408e-13
+          }
+        }
+      ]
+    },
+    {
+      "seed": 2028,
+      "runs": [
+        {
+          "id": "01ed1f0d08a9",
+          "label": "Translation \u00b7 synthetic seed 2028",
+          "settings": {
+            "particles": 36,
+            "seed": 2028,
+            "gravity": 1.0,
+            "damping": 1.0,
+            "epsilon": 0.0,
+            "dt": 0.015,
+            "duration": 0.6,
+            "amplitude": 0.02,
+            "frequency": 1.0,
+            "waveform": "translate",
+            "stroke": 0.03,
+            "aspect": 1.0,
+            "angle": 0.0,
+            "width": 2.7,
+            "intruder_x": 1.35,
+            "intruder_y": 0.78,
+            "intruder_radius": 0.32
+          },
+          "initial_hash": "b5086f4a8ef5b8c4",
+          "metrics": {
+            "mean_reaction": 6.082443107956286,
+            "mean_vertical_resistance": 6.004609521832938,
+            "work": 0.1840753704663531,
+            "positive_work": 0.1840753704663531,
+            "max_penetration": 2.3311086741473197e-08,
+            "max_balance": 9.103828801926284e-15,
+            "max_complementarity": 4.2348616002987397e-16
+          }
+        },
+        {
+          "id": "5f809d6097f6",
+          "label": "Lateral sway \u00b7 synthetic seed 2028",
+          "settings": {
+            "particles": 36,
+            "seed": 2028,
+            "gravity": 1.0,
+            "damping": 1.0,
+            "epsilon": 0.0,
+            "dt": 0.015,
+            "duration": 0.6,
+            "amplitude": 0.02,
+            "frequency": 1.0,
+            "waveform": "sway",
+            "stroke": 0.03,
+            "aspect": 1.0,
+            "angle": 0.0,
+            "width": 2.7,
+            "intruder_x": 1.35,
+            "intruder_y": 0.78,
+            "intruder_radius": 0.32
+          },
+          "initial_hash": "b5086f4a8ef5b8c4",
+          "metrics": {
+            "mean_reaction": 5.4844103158934026,
+            "mean_vertical_resistance": 5.389652414635744,
+            "work": 0.21885549624803982,
+            "positive_work": 0.21885549624803982,
+            "max_penetration": 1.989205125133009e-06,
+            "max_balance": 7.216449660063518e-15,
+            "max_complementarity": 1.0136882438807101e-15
+          }
+        }
+      ]
+    },
+    {
+      "seed": 2029,
+      "runs": [
+        {
+          "id": "43203b672eed",
+          "label": "Translation \u00b7 synthetic seed 2029",
+          "settings": {
+            "particles": 36,
+            "seed": 2029,
+            "gravity": 1.0,
+            "damping": 1.0,
+            "epsilon": 0.0,
+            "dt": 0.015,
+            "duration": 0.6,
+            "amplitude": 0.02,
+            "frequency": 1.0,
+            "waveform": "translate",
+            "stroke": 0.03,
+            "aspect": 1.0,
+            "angle": 0.0,
+            "width": 2.7,
+            "intruder_x": 1.35,
+            "intruder_y": 0.78,
+            "intruder_radius": 0.32
+          },
+          "initial_hash": "42f7eb3a679bbd42",
+          "metrics": {
+            "mean_reaction": 4.899615558202208,
+            "mean_vertical_resistance": 3.887068884641623,
+            "work": 0.11603665929289617,
+            "positive_work": 0.11603665929289617,
+            "max_penetration": 6.102200164198601e-07,
+            "max_balance": 5.5511188204500006e-15,
+            "max_complementarity": 1.3547934465226501e-16
+          }
+        },
+        {
+          "id": "f73a2dabe57f",
+          "label": "Lateral sway \u00b7 synthetic seed 2029",
+          "settings": {
+            "particles": 36,
+            "seed": 2029,
+            "gravity": 1.0,
+            "damping": 1.0,
+            "epsilon": 0.0,
+            "dt": 0.015,
+            "duration": 0.6,
+            "amplitude": 0.02,
+            "frequency": 1.0,
+            "waveform": "sway",
+            "stroke": 0.03,
+            "aspect": 1.0,
+            "angle": 0.0,
+            "width": 2.7,
+            "intruder_x": 1.35,
+            "intruder_y": 0.78,
+            "intruder_radius": 0.32
+          },
+          "initial_hash": "42f7eb3a679bbd42",
+          "metrics": {
+            "mean_reaction": 5.985139915888784,
+            "mean_vertical_resistance": 4.181476574986534,
+            "work": 0.19386307007026074,
+            "positive_work": 0.20586366121244024,
+            "max_penetration": 1.9733235117613823e-06,
+            "max_balance": 5.107028843740714e-15,
+            "max_complementarity": 4.989870916677807e-16
+          }
+        }
+      ]
+    }
+  ],
+  "interpretation": "Descriptive model outputs. No physical calibration, optimality claim or experimental data."
+}
